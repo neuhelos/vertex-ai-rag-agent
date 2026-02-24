@@ -1,0 +1,12 @@
+.images/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+.DS_Store
+.idea/
+.vscode/ 
+README.md
